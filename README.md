@@ -14,21 +14,6 @@ This project is a guided business intelligence initiative for a global manufactu
 
 The dataset used in this project spans the years 2015-2017 and comprises 10 CSV files containing relevant data related to sales, profits, revenues, and returns for the cycling equipment and accessories manufactured by the company.
 
-
-
-## Concepts Learned
-
-📌 Power Query: Techniques like merge, append, value replacement, and ETL (Extract, Transform, Load) processes were employed.
-
-📌 Data Modeling: Building relational data models to establish connections and relationships within the dataset.
-
-📌 DAX (Data Analysis Expressions): Creating calculated columns and measures for deriving meaningful insights.
-
-📌 Visualization Techniques: Utilizing various Power BI visualizations such as Tree Map, Cards, KPIs, Stacked Bar Chart, Matrix, Slicers, Line Chart, Gauge, and Donut Chart.
-
-📌 Power BI Features: Implementing features like bookmarks, filters, custom tooltips, drill-through functionality, time intelligence functions, conditional formatting, and forecasting.
-
-
 ## Project Workflow
 
 1.Data Preparation:
@@ -46,3 +31,16 @@ The dataset used in this project spans the years 2015-2017 and comprises 10 CSV 
 4.Insights and Analysis:
 - Utilized time intelligence functions for analyzing trends over time periods.
 - Applied conditional formatting and forecasting techniques to highlight patterns and predict future outcomes.
+
+
+## Concepts Learned
+
+📌 Power Query: Techniques like merge, append, value replacement, and ETL (Extract, Transform, Load) processes were employed.
+
+📌 Data Modeling: Building relational data models to establish connections and relationships within the dataset.
+
+📌 DAX (Data Analysis Expressions): Creating calculated columns and measures for deriving meaningful insights.
+
+📌 Visualization Techniques: Utilizing various Power BI visualizations such as Tree Map, Cards, KPIs, Stacked Bar Chart, Matrix, Slicers, Line Chart, Gauge, and Donut Chart.
+
+📌 Power BI Features: Implementing features like bookmarks, filters, custom tooltips, drill-through functionality, time intelligence functions, conditional formatting, and forecasting.
