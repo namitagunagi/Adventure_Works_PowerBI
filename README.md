@@ -2,7 +2,7 @@
 
 Overview
 
-This project is a guided business intelligence initiative for a global manufacturing company specializing in cycling equipment and accessories. The objective was to track key performance indicators (KPIs) such as sales, profits, revenues, and returns over the period from 2015 to 2017. The project involved leveraging a dataset comprising 10 CSV files and using Power BI for data transformation, modeling, and visualization.
+This project is a guided business intelligence initiative for a global manufacturing company specializing in cycling equipment and accessories. The objective was to track key performance indicators (KPIs) such as sales, profits, revenues, and returns over the period from 2015 to 2017. The project involved leveraging a dataset comprising 9 CSV files and using Power BI for data transformation, modeling, and visualization.
 
 
 ## 🛠 Tools Used:
@@ -12,7 +12,7 @@ This project is a guided business intelligence initiative for a global manufactu
 
 ## Dataset
 
-The dataset used in this project spans the years 2015-2017 and comprises 10 CSV files containing relevant data related to sales, profits, revenues, and returns for the cycling equipment and accessories manufactured by the company.
+The dataset used in this project spans the years 2015-2017 and comprises 9 CSV files containing relevant data related to sales, profits, revenues, and returns for the cycling equipment and accessories manufactured by the company.
 
 ## Project Workflow
 
